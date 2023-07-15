@@ -8,14 +8,8 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-<<<<<<< HEAD
 ALLOWED_HOSTS = ['pikunov.ddns.net', '127.0.0.1', 'localhost']
-=======
-ALLOWED_HOSTS = ['pikunov.ddns.net']
->>>>>>> 4e4106de572074ed118188889210d85ab3ca2e11
 
-
-# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
